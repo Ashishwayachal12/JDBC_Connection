@@ -1,3 +1,5 @@
+package Sorting;
+
 // Java program to perform 3 way Merge Sort
 
 public class MergeSort3ways

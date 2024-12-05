@@ -1,3 +1,5 @@
+package Sorting;
+
 /* Java program to implement Pigeonhole Sort */
 
 import java.lang.*;

@@ -1,3 +1,5 @@
+package Sorting;
+
 public class MergeSort {
 
     // Function to divide the array and call merge

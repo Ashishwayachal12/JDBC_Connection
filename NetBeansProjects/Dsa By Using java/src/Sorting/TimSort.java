@@ -1,3 +1,5 @@
+package Sorting;
+
 // Java program to perform TimSort.
 class TimSort {
 
